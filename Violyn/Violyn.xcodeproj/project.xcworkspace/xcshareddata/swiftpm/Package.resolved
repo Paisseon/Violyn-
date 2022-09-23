@@ -1,0 +1,14 @@
+{
+  "pins" : [
+    {
+      "identity" : "swipeactions",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/c-villain/SwipeActions",
+      "state" : {
+        "branch" : "fix-long-swipe",
+        "revision" : "ac23e662d3645f2988be605f15c9bdb652f4227f"
+      }
+    }
+  ],
+  "version" : 2
+}
